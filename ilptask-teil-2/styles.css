@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f7fb;
+  color: #222;
+  line-height: 1.6;
+}
+
+.page {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.card {
+  background-color: white;
+  border: 1px solid #d9e2ec;
+  border-radius: 12px;
+  padding: 28px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1f3b73;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.35rem;
+  color: #0f4c5c;
+  margin-top: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1rem;
+  font-style: normal;
+  margin: 0 0 12px;
+}
+
+.intro {
+  color: rgb(70, 70, 70);
+  font-size: 1.05rem;
+}
+
+.topic-list {
+  padding-left: 22px;
+  margin: 0 0 14px;
+}
+
+li {
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
+
+.notice {
+  padding: 12px 14px;
+  border-left: 5px solid #1f3b73;
+  border-radius: 8px;
+  font-weight: 700;
+}
+
+#notice {
+  background-color: #fff3cd;
+  color: #8a5a00;
+}
+
+.notice-neutral {
+  background-color: #e8f4ff;
+  color: #1a4d7a;
+  border-left-color: #4a90e2;
+  font-weight: 600;
+}
+
+.notice-important {
+  background-color: #ffe5e5;
+  color: #a61b1b;
+}
+
+.contact-box {
+  margin-top: 22px;
+  padding: 16px;
+  background-color: #eef7f1;
+  border-radius: 10px;
+}
+
+.contact-text {
+  font-weight: 600;
+}
